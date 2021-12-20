@@ -18,31 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Purelog: for Writers"
-email: mail@brennanbrown.ca
+title: "The Josh Connor"
+email: joshconnor26+TJC@gmx.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A responsive sidebar Jekyll theme using the Pure.css framework, 
-  designed for writers and bloggers of all kinds.
+  Hey there! Im Josh, this site is still a work in progress, hopefully in the future 
+  i will have some more content to share with you
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://purelog.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
-repository: brennanbrown/purelog
-twitter: brennankbrown
-github: brennanbrown
-
+repository: heysmileyface/website
+twitter: godfoodlid
+github: heysmileyface
+donate_link: 'https://gofund.me/1bdf9f3a'
 header_image: assets/profile.png
 
 google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: Brennan K. Brown
+author: Josh Connor
 author_bio: >-
-  Hey there! 😄 My name is Brennan, I'm a 25-year-old Métis web developer and 
-  content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
-  Alberta. I've recently compeleted a Full Stack Developer Program at EvolveU, 
+  Hey there! 😄 My name is Josh, I'm a 22-year-old want to be web developer and 
+  content strategist, currently reside in Glasgow, 
+  Scotland. I've currently completing a Business Course at City of Glagow College, 
   and I'm looking to help those that need web development work done, or 
   searching for ideas and management for their next content project.
-author_pic: https://brennanbrown.ca/img/avatar.png
+author_pic: https://i.imgur.com/2BvqvPM.jpg
 paginate: 4
 paginate_path: "/:num/"
 
@@ -66,7 +66,7 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
-      author: Brennan K. Brown
+      author: Josh Connor
       avatar: assets/profile-sm.png
   - scope:
       path: ""
@@ -80,6 +80,12 @@ defaults:
     values:
       layout: journal-entry
       content-type: journals
+  - scope:
+      path: ""
+      type: satire
+    values:
+      layout: bbc
+      content-type: satire
 
 # Allows all pages to be put into `_pages` folder
 # for easier navigation and better SEO.
@@ -93,6 +99,9 @@ collections:
   journals:
     output: true
     permalink: /journals/:title
+  satire:
+    output: true
+    permalink: /satire/:title
 
 # Exclude from processing.
 exclude:

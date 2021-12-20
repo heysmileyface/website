@@ -14,7 +14,8 @@ p,
 ul,
 ol,
 li {
-  font-family: "Lora", serif;
+  
+  font-family: ReithSans,Helvetica,Arial,freesans,sans-serif
 }
 
 a {
@@ -25,6 +26,10 @@ a {
 a:hover,
 a:focus {
   text-decoration: underline;
+}
+
+body {
+  overscroll-behavior: none;
 }
 
 h1 {
@@ -114,7 +119,7 @@ footer .pure-menu-link:hover {
 }
 
 .sidebar {
-  background: #222;
+  background: #143;
   color: #fff;
 }
 
