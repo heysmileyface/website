@@ -102,7 +102,7 @@ footer .pure-menu-link {
   color: #444;
 }
 
-footer .pure-menu-link:hover {
+footer .-link:hover {
   color: #111;
   background-color: #fff;
   text-decoration: none;
@@ -365,7 +365,7 @@ footer .pure-menu-link:hover {
   }
 
   footer .pure-menu-link {
-    padding: 0.5em 5px;
+    padding: 0.5em 3px;
   }
 }
 
