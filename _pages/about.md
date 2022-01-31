@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About the Purelog Theme
+title: The Reason for this
 permalink: /about/
 ---
+This site has a few uses for myself. Firstly to keep track of everything i do and found and interest in. hopefully those things inspire
 
-**Purelog** is a responsive, sidebar theme for the popular JAMstack generator Jekyll that only uses the minimal [**Pure.css** framework](https://github.com/pure-css/pure) (hence the name!), while still following the best practices possible for accessibility and search-engine optimization.
-
-I created this after finishing [Watery](https://github.com/brennanbrown/watery) (which this theme is built off of), as a way to add more functionality and design while still remaining as lightweight as possible.
-
-This project is aimed towards those looking for an interesting theme for Jekyll that has features that aren't found commonly elsewhere, which I'll list down below.
+interest in all of you, if not, then i hope you found some comedic value within them
+2. hofush
 
 ### Features
 
