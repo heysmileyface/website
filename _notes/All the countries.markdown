@@ -45,6 +45,10 @@ tags: Stuff-on-the-side
 
 Thinking of using these websites to scrape data relating to each countries import and export data and eventually gather other data for each country.
 
+- https://wits.worldbank.org/CountryProfile/en/Country
+
+- https://www.tiktok.com
+
 </head>
 
 <body>
