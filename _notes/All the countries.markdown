@@ -2,7 +2,7 @@
 tags: Stuff-on-the-side
 ---
 
-<!doctype html>
+
 
 <html lang="en">
 <head>
@@ -30,6 +30,8 @@ tags: Stuff-on-the-side
   font-family: Arial;
 }
 
+
+
 .text-block {
   position: absolute;
   bottom: 20px;
@@ -40,6 +42,8 @@ tags: Stuff-on-the-side
   padding-right: 20px;
 }
 </style>
+
+Thinking of using these websites to scrape data relating to each countries import and export data and eventually gather other data for each country.
 
 </head>
 
