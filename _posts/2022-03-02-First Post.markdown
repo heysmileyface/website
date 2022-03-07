@@ -7,7 +7,7 @@ tags:
   - progression
 author: Josh Connor
 avatar: 
-category: 
+category: thoughts
 ---
 
 This is my first post. actually this is my second attempt at it as ive already finished this but have actually forgotten to save it.
