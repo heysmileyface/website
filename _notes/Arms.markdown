@@ -2,7 +2,7 @@
 tags: exercise
 ---
 
-1.preacher curls > warm up set, 3 sets of 10-8
+1.preacher curls > <mark>warm up set, 3 sets of 10-8</mark>
 
 <img src="https://criticalbody.com/wp-content/uploads/2021/12/close-grip-preacher-curl-dec21.jpg" title="" alt="alt text" width="402">
 
