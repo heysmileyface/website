@@ -67,3 +67,5 @@ tags: exercise
 10.dips until <mark>failure</mark>
 
 <img src="https://post.healthline.com/wp-content/uploads/2019/04/Weighted-Dips-1200X628-facebook.jpg" title="" alt="alt text" width="396">
+
+
