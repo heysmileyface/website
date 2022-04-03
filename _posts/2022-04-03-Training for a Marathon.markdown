@@ -10,9 +10,15 @@ avatar:
 category: marathon
 ---
 
+---
+
+
+
 #### The Ultimate Goal.
 
 I am by no means an athlete. I can barely swim 1k, i can barely cycle anymore than 7 miles and my fastest 5k is currently 21:30. My goal in life is to run an Iron man, i believe it to be one of the toughest achievements a human can do with their body. Since 1978 there have been approximately 400,000 Iron man finishers. On earth with 7.9 billion people, that means that roughly if a person has completed an Iron man they are 1/20,000 . Although id love to complete an Iron man right now, i believe their are some checkpoints to be met first.
+
+---
 
 #### Training
 
