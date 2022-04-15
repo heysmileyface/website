@@ -49,8 +49,14 @@ The jack daniels plan consists of 2 runs a week, a speedwork and a long run. You
 
 #### Jeff Galloways
 
-see plan here
+see information on plan [here](https://www.runtothefinish.com/galloway-method-run-walk-marathon/) 
+
+The Jeff Galloways running method is generally used for beginners as the training incorporates walking to split up the runs. this method is generally used for beginners as it is more friendly for times longer that 4:30+ marathon times.
 
 
+
+### which plan will i use?
+
+Although i am very much a beginner as i have never ran a marathon in my life, i feel it is necessary for myself to set goals that are out of reach. for my first marathon i would be happy with anything below 4 hours, however the table above tells me that a 03.25  minutes time is absolutely possible. i will aim for a time between 3:20 and 3:25 and because this is under the 4:30 that jeff galloways plans aim for, i have decided to use the Jack Daniels plan.
 
 
